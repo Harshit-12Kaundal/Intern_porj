@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: none;
+    font-family: sans-serif;
+}
+.container{
+    position: absolute;
+    background-color:#B2BEB5;
+    width: 100vw;
+}
+
+.name{
+    padding-top:1rem ;
+    margin-left: 43%;
+
+}
+
+.top-panel h2{
+    margin-left: 2rem;
+}
+
+.top-bottom{
+    position: relative;
+    background-color: rgb(216, 216, 210);
+    height: 7rem;
+    padding-left: 1rem;
+    border-radius: 10px;
+    max-width: 90vw;
+    margin-left: 2rem;
+}
+.top-bottom p{
+    padding-top:1rem ;
+    margin-bottom: 1rem;
+}
+
+.skill_main{
+    margin-top: 2rem;
+}
+
+.skills{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color:rgb(216, 216, 210);
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 10px;
+    margin-left: 2rem;
+    max-width: 90vw;
+}
+
+.skills p{
+    margin-bottom: 1rem;
+}
+
+.abouth{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.about{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color:rgb(216, 216, 210);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 10px;
+    max-width: 90vw;
+    margin-left: 2rem;
+}
+
+.edu{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.ulcls{
+    background-color:rgb(216, 216, 210);
+    text-decoration: none;
+    list-style-type: none;
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 10px;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    max-width: 90vw;
+    
+}
+
+.liedu{
+    text-decoration: none;
+}
+
+.proj{
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+.ulproj{
+    background-color:rgb(216, 216, 210);
+    max-width: 90vw;
+    margin-left: 2rem;
+    list-style-type: none;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-top: 1rem;
+}
+
+
+.achiv{
+    margin-left: 2rem;
+}
+
+.ulachiv{
+    background-color:rgb(216, 216, 210);
+    padding: 1rem;
+    list-style-type: none;
+    margin-left: 2rem;
+    border-radius: 10px;
+    margin-top: 1rem;
+    max-width: 90vw;
+    margin-bottom:3rem;
+}
+
+.main_list{
+    padding: 1rem;
+}
